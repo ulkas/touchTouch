@@ -1,3 +1,10 @@
+# touchTouch implementation for php
+* automatically scans the images folder and creates thumbnails
+* supports galleries - when there are new folders in images/ this will create a landing page with galleries (folder names) to choose from
+
+
+
+
 # jQuery TouchTouch
 
 A jQuery 1.7+ plugin that makes it easy to display a set of photos on your site as a touch-optimized photo gallery.
