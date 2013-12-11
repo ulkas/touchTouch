@@ -2,6 +2,7 @@
 * automatically scans the images folder and creates thumbnails
 * supports galleries - when there are new folders in images/ this will create a landing page with galleries (folder names) to choose from
 * gallery example - http://touchtouchgallery.ulkas.eu
+* simple viewer example - http://touchtouch.ulkas.eu
 
 
 
